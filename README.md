@@ -1,12 +1,44 @@
-# React + Vite
+# Shahnwaz's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website! This project showcases my skills as a web developer through a collection of projects, services, Contact, and information about me.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+Check out the live website: [https://shahnwaz-alam.github.io/my_portfolio/](https://shahnwaz-alam.github.io/my_portfolio/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📝 Description
+This is a modern, responsive portfolio website built to highlight my web development projects, skills, Contactand, services. It includes sections for projects, services, about me, and a downloadable CV. The site is designed to be user-friendly and visually appealing, with a focus on showcasing my expertise in frontend development.
 
-## Expanding the ESLint configuration
+## ✨ Features
+- **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices.
+- **Projects Section**: Displays my web development projects with images and live links.
+- **Services Section**: Highlights my skills in web development, UI/UX design, and frontend optimization.
+- **About Me**: A brief introduction to my background and passion for web development.
+- **Downloadable CV**: Easy access to my resume.
+- **Social Links**: Connect with me on GitHub, LinkedIn, and Instagram.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+- **Frontend**: React.js, JavaScript, HTML, CSS
+- **Build Tool**: Vite
+- **Deployment**: GitHub Pages
+- **Icons**: Boxicons
+- **Version Control**: Git, GitHub
+
+## 📸 Screenshots
+ 
+
+## 📞 contacts
+GitHub: Shahnwaz-Alam
+LinkedIn: Shahnwaz Alam
+Instagram: sonu_snz02
+Email: [alamshahnwaz516@gmail.com]
+
+## 🛠️ Installation 
+To run this project locally:
+1. Navigate to the project folder:
+cd my_portfolio
+
+3. Install dependencies:
+   npm install
+
+4. Start the development server:
+   npm run dev
