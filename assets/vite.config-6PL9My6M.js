@@ -3,9 +3,8 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  root: '.', // Root directory
-  publicDir: 'public', // Public folder for static assets
+  base: '/my_portfolio/', 
   build: {
-    outDir: 'dist', // Output directory
+    outDir: 'dist',
   },
 });
